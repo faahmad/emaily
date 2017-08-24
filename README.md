@@ -1,9 +1,9 @@
 # emaily
 
-## demo
+### demo
 https://floating-taiga-49345.herokuapp.com/
 
-## features
+### features
 
 - google oauth
 - stripe integration
